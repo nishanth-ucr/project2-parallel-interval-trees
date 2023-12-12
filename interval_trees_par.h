@@ -1,4 +1,5 @@
 #include "parallel.h"
+#include <functional>
 
 using namespace parlay;
 
